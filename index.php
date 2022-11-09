@@ -35,6 +35,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="css/login.css">
+    <link rel="icon" href="img/favicon.png">
     <title>Prijava Kocovic</title>
 
 </head>
